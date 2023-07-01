@@ -3,7 +3,11 @@ The Wine Quality Prediction project aims to determine the quality of wines based
 The Jupyter notebook code offers insights into the data preprocessing, model training, and evaluation stages.
 
 Technologies Used
+
 Numpy
+
 Pandas
+
 Matplotlib
+
 Seaborn
